@@ -1,3 +1,4 @@
 pipenv run
 pipenv install <package>
+pipenv install <package1> <package2> <package3>
 pipenv install <package> --dev
