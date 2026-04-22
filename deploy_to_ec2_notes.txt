@@ -1,0 +1,8 @@
+Create EC2 instace 
+-> Start the instace  
+-> SSH into that instace 
+-> Create a Key pair 
+-> Connect using Keypair 
+-> Install Python3 (sudo apt install python-pip) or (sudo yum install python-pip) & Packages
+-> place the file
+-> schedule Scrapper : nohup <file.py> & -> create process id you can check using "htop"
