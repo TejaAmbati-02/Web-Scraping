@@ -1,0 +1,3 @@
+pipenv run
+pipenv install pandas
+pipenv install pandas --dev
